@@ -20,3 +20,5 @@
                              matplotlib – For plotting temperature and humidity trends
                              seaborn – For enhanced and styled data visualization
                              datetime – To convert and format timestamp data
+
+"OUTPUT" : ![Image](https://github.com/user-attachments/assets/85712172-1d50-4805-ae9f-0934f8a053e6)
